@@ -1,0 +1,7 @@
+[Activity]
+name = JAMediaImagenes
+activity_version = 1
+service_name = org.laptop.JAMediaImagenes
+class = SugarJAMediaImagenes.JAMediaImagenes
+icon = JAMediaImagenes
+show_launcher = yes
